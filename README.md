@@ -10,4 +10,10 @@
 * Made an interactive dashboard using Tableau answering all the key questions that would help the sales director in identifying the main reasons for the decline in sales and build effective strategy to boost sales.
 
 ##Final Dashboard Picture:
-![]()
+![](/Images/Final.Dashboard.png)
+
+## SQL Queries Used For EDA:
+![](/Images/Final.Dashboard.png)
+
+## Data Modelling Using Tableau:
+![](/Images/Final.Dashboard.png)
