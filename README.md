@@ -16,4 +16,4 @@
 ![](/Images/SQL%20queries%20EDA.png)
 
 ## Data Modelling Using Tableau:
-![](/Images/Final.Dashboard.png)
+![](/Images/Data%20Model.png)
