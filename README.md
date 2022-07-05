@@ -19,4 +19,8 @@
 ![](/Images/DATA.MODEL.png)
 
 ## Findings:
-*
+* The final dashboard can help the sales director in identifying focus customers and regions with poor performances.
+* Marketing strategies of regions with poor results can be compared to strategies of regions with high sales.
+* Monthly results can also be comapred in order to find seasonal trends.
+* Information of top selling products can be helpful for building better promotional activities.
+* Cities that drive in more revenue should be kept in consideration while building marketing strategies.
