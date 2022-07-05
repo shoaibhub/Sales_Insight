@@ -4,7 +4,7 @@
 ### Tools Used: 
 * SQL - MySql server for EDA
 * Tableau - Data modelling, Data Cleaning and visualisation.
-# Project Overview
+# Project Overview:
 [Project files](https://github.com/shoaibhub/KPMG_virtual_internship)
 * Used SQL to perform Exploratory Data Analysis and to find trends by joining multiple tables and running queries.
 * Connected MySql Database to Tableau and established a data model.
