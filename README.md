@@ -16,4 +16,4 @@
 ![](/Images/SQL.png)
 
 ## Data Modelling Using Tableau:
-![](/Images/Data%20Model.png)
+![](/Images/DATA.MODEL.png)
