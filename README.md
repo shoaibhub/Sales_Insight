@@ -17,3 +17,6 @@
 
 ## Data Modelling Using Tableau:
 ![](/Images/DATA.MODEL.png)
+
+## Findings:
+*
