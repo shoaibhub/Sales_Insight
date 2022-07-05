@@ -13,7 +13,7 @@
 ![](/Images/Final.Dashboard.png)
 
 ## SQL Queries Used For EDA:
-![](/Images/SQL%20queries%20EDA.png)
+![](/Images/SQL.png)
 
 ## Data Modelling Using Tableau:
 ![](/Images/Data%20Model.png)
