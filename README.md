@@ -1,5 +1,5 @@
 # Problem Statement:
-* AtliQ Hardware is a Computer Hrdware and Peripheral Manufacturer with regional offices all across the counry. The sales recently have been declining and the sales director is having a hard time in tracking the reasons for the decline in sales.
+* AtliQ Hardware is a Computer Hrdware and Peripheral Manufacturer with regional offices all across the country. The sales recently have been declining and the sales director is having a hard time in tracking the reasons for the decline in sales.
 * The sales director needs simple insights presented in the form of an Interactive dashboard from data that are present in multiple files and have more than **150,000 rows.**
 ### Tools Used: 
 * SQL - MySql server for EDA
